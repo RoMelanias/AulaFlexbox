@@ -1,0 +1,29 @@
+body {
+    font-family:'lucida-bright';
+    font-size:x-large;
+    background-color:rgb(0, 174, 255) ;
+    text-align: center;
+}
+
+nav{
+    display:flex;
+    align-items:center;
+    flex-direction: column;
+}
+
+.Zero{
+    background-color: rgb(164, 195, 195);
+    font-family: Verdana;
+    font-size: medium;
+}
+.Vitral{
+    background-color: pink;
+    font-family: 'Franklin Gothic Medium';
+    font-size: medium;
+}
+
+.Frevo{
+    background-color: mediumaquamarine;
+    font-family: fantasy;
+    font-size: medium;
+}
